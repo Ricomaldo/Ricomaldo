@@ -1,35 +1,45 @@
-## Mes Projets GitHub
+# Bienvenue sur mon profil GitHub ! 👋
 
-### [OC_IW_P2-Riding-Cities](https://github.com/Ricomaldo/OC_IW_P2-Riding-Cities)
-Projet 2 : Site de présentation pour une application de location de skateboard.  
-**Technologies** : HTML, CSS  
-**Description** : Ce projet présente l’application Riding Cities, une plateforme de location de vélos en ligne.
+Je suis Eric Zuber, développeur en formation, passionné par le web et les technologies numériques. Voici une sélection de mes projets, dont certains réalisés dans le cadre de ma formation OpenClassrooms.
+
+https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr
+
+## 📚 Projets de formation OpenClassrooms
+
+Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. Ils couvrent différents aspects du développement web, de l'intégration de maquettes à la création de fonctionnalités interactives.
 
 ### [OC_IW_P3-Booki](https://github.com/Ricomaldo/OC_IW_P3-Booki)
-Projet 3 : Interface pour une plateforme de réservation d’hébergements et d’activités.  
+**Projet 3 :** Interface pour une plateforme de réservation d’hébergements et d’activités  
 **Technologies** : HTML, CSS  
 **Description** : Création d’une interface utilisateur responsive pour un site de réservation.
 
 ### [OC_IW_P4-ohmyfood](https://github.com/Ricomaldo/OC_IW_P4-ohmyfood)
-Projet 4 : Application de réservation de menus de restaurants.  
+**Projet 4 :** Application de réservation de menus de restaurants  
 **Technologies** : HTML, CSS, SCSS  
 **Description** : Développement d’une interface dynamique pour une application de commande en ligne.
 
 ### [OC_IW_P5-Print-it](https://github.com/Ricomaldo/OC_IW_P5-Print-it)
-Projet 5 : Site e-commerce pour une entreprise d'impression.  
+**Projet 5 :** Site e-commerce pour une entreprise d'impression  
 **Technologies** : HTML, CSS, JavaScript  
 **Description** : Intégration d’un site e-commerce avec fonctionnalités de navigation et de recherche.
 
 ### [OC_IW_P6_Sophie-Bluel](https://github.com/Ricomaldo/OC_IW_P6_Sophie-Bluel)
-Projet 6 : Site pour une architecte nommé Sophie Bluel.  
-**Technologies** : HTML, SCSS, JavaScript  
-**Description** : Développement de fonctionnalités interactives pour le portfolio d'une architecte, mettant en avant ses réalisations et son parcours professionnel. 
+**Projet 6 :** Portfolio pour une architecte  
+**Technologies** : HTML, CSS, JavaScript  
+**Description** : Développement de fonctionnalités interactives pour le portfolio d'une architecte, mettant en avant ses réalisations et son parcours professionnel.
 
-### [Fun](https://github.com/Ricomaldo/Fun)
-Divers projets personnels et expérimentations en développement web.  
-**Description** : Repo pour mes tests et délirs persos.
+## 🌐 Projets personnels
 
 ### [echodesreves](https://github.com/Ricomaldo/echodesreves)
-Projet : Écho des rêves  
-**Technologies** : HTML, SCSS, JavaScript
-**Description** : Projet personnel de site de coaching
+**Projet :** Écho des rêves  
+**Technologies** : (ajouter les technologies utilisées, par ex. HTML, CSS, JavaScript)  
+**Description** : (ajouter une description spécifique – ex. un site créatif, un blog, etc. et ses fonctionnalités clés)
+
+## Compétences
+- HTML, CSS, SCSS
+- JavaScript, Git, GitHub
+- ...
+
+## Liens
+- [LinkedIn]([https://www.linkedin.com/in/ton-nom-linkedin](https://www.linkedin.com/in/eric-zuber-b9060650/))
+- [Site Web Personnel](en création)
