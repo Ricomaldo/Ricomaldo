@@ -4,7 +4,7 @@ Je suis Eric Zuber, développeur en formation, passionné par le web et les tech
 
 ## 📚 Projets de formation OpenClassrooms
 
-Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. Ils couvrent différents aspects du développement web, de l'intégration de maquettes à la création de fonctionnalités interactives.
+Ces projets ont été réalisés dans le cadre de la formation d'OpenClassrooms Intégrateur Web. Ils couvrent différents aspects du développement web, de l'intégration de maquettes à la création de fonctionnalités interactives.
 
 ### [OC_IW_P3_Booki](https://github.com/Ricomaldo/OC_IW_P3_Booki)
 **Projet 3 :** Interface pour une plateforme de réservation d’hébergements et d’activités  
