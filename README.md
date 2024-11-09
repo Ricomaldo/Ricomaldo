@@ -6,17 +6,17 @@ Je suis Eric Zuber, développeur en formation, passionné par le web et les tech
 
 Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. Ils couvrent différents aspects du développement web, de l'intégration de maquettes à la création de fonctionnalités interactives.
 
-### [OC_IW_P3-Booki](https://github.com/Ricomaldo/OC_IW_P3_Booki)
+### [OC_IW_P3_Booki](https://github.com/Ricomaldo/OC_IW_P3_Booki)
 **Projet 3 :** Interface pour une plateforme de réservation d’hébergements et d’activités  
 **Technologies** : HTML, CSS  
 **Description** : Création d’une interface utilisateur responsive pour un site de réservation.
 
-### [OC_IW_P4-ohmyfood](https://github.com/Ricomaldo/OC_IW_P4_ohmyfood)
+### [OC_IW_P4_ohmyfood](https://github.com/Ricomaldo/OC_IW_P4_ohmyfood)
 **Projet 4 :** Application de réservation de menus de restaurants  
 **Technologies** : HTML, CSS, SCSS  
 **Description** : Développement d’une interface dynamique pour une application de commande en ligne.
 
-### [OC_IW_P5-Print-it](https://github.com/Ricomaldo/OC_IW_P5_Print-it)
+### [OC_IW_P5_Print-it](https://github.com/Ricomaldo/OC_IW_P5_Print-it)
 **Projet 5 :** Site e-commerce pour une entreprise d'impression  
 **Technologies** : HTML, CSS, JavaScript  
 **Description** : Intégration d’un site e-commerce avec fonctionnalités de navigation et de recherche.
