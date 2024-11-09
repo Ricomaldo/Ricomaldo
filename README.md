@@ -2,7 +2,7 @@
 
 Je suis Eric Zuber, développeur en formation, passionné par le web et les technologies numériques. Voici une sélection de mes projets, dont certains réalisés dans le cadre de ma formation OpenClassrooms.
 
-https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr
+(https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr)
 
 ## 📚 Projets de formation OpenClassrooms
 
