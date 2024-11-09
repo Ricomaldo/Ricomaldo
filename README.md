@@ -39,6 +39,6 @@ Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. I
 - ...
 
 ## Liens
-- [LinkedIn]([https://www.linkedin.com/in/ton-nom-linkedin](https://www.linkedin.com/in/eric-zuber-b9060650/))
+- [LinkedIn](https://www.linkedin.com/in/eric-zuber-b9060650/)
 - [Site Web Personnel](en création)
 - [Loxodon](https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr)
