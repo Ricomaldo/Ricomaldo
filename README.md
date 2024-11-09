@@ -23,15 +23,15 @@ Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. I
 
 ### [OC_IW_P6_Sophie-Bluel](https://github.com/Ricomaldo/OC_IW_P6_Sophie-Bluel)
 **Projet 6 :** Portfolio pour une architecte  
-**Technologies** : HTML, CSS, JavaScript  
+**Technologies** : HTML, SCSS, JavaScript  
 **Description** : Développement de fonctionnalités interactives pour le portfolio d'une architecte, mettant en avant ses réalisations et son parcours professionnel.
 
 ## 🌐 Projets personnels
 
 ### [echodesreves](https://github.com/Ricomaldo/echodesreves)
 **Projet :** Écho des rêves  
-**Technologies** : (ajouter les technologies utilisées, par ex. HTML, CSS, JavaScript)  
-**Description** : (ajouter une description spécifique – ex. un site créatif, un blog, etc. et ses fonctionnalités clés)
+**Technologies** : HTML, SCSS, JavaScript 
+**Description** : Gestion de coaching perso
 
 ## Compétences
 - HTML, CSS, SCSS
