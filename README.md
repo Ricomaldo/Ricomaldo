@@ -2,8 +2,6 @@
 
 Je suis Eric Zuber, développeur en formation, passionné par le web et les technologies numériques. Voici une sélection de mes projets, dont certains réalisés dans le cadre de ma formation OpenClassrooms.
 
-[Loxodon](https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr)
-
 ## 📚 Projets de formation OpenClassrooms
 
 Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. Ils couvrent différents aspects du développement web, de l'intégration de maquettes à la création de fonctionnalités interactives.
@@ -43,3 +41,4 @@ Ces projets ont été réalisés dans le cadre de la formation OpenClassrooms. I
 ## Liens
 - [LinkedIn]([https://www.linkedin.com/in/ton-nom-linkedin](https://www.linkedin.com/in/eric-zuber-b9060650/))
 - [Site Web Personnel](en création)
+- [Loxodon](https://static.wikia.nocookie.net/asharia/images/7/7f/UA-ravnica.jpg/revision/latest?cb=20200128215113&path-prefix=fr)
