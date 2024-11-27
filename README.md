@@ -32,6 +32,7 @@ Ces projets ont été réalisés dans le cadre de la formation d'OpenClassrooms 
 **Projet :** Écho des rêves  
 **Technologies** : HTML, SCSS, JavaScript 
 **Description** : Gestion de coaching perso
+**Github Page** : https://ricomaldo.github.io/echodesreves/
 
 ## Compétences
 - HTML, CSS, SCSS
