@@ -26,6 +26,11 @@ Ces projets ont été réalisés dans le cadre de la formation d'OpenClassrooms 
 **Technologies** : HTML, SCSS, JavaScript  
 **Description** : Développement de fonctionnalités interactives pour le portfolio d'une architecte, mettant en avant ses réalisations et son parcours professionnel.
 
+### [OC_IW_P7_Kasa](https://github.com/Ricomaldo/OC_IW_P6_Kasa.git)
+**Projet 7 :** Front End pour une agence immobilière  
+**Technologies** : React, React Router, Sass  
+**Description** : tbd
+
 ## 🌐 Projets personnels
 
 ### [echodesreves](https://github.com/Ricomaldo/echodesreves)
